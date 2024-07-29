@@ -296,4 +296,4 @@ async def check_new_videos():
             save_config()
 
 # Run the bot
-bot.run('MTI2NzA0MDgxMTUwNjIwODgxOQ.Gt9nip.mw0CckqV7KTfcjUJ0yklK03onHW2vpVYiW3OUM')
+bot.run('MTI2NzA0MDgxMTUwNjIwODgxOQ.GwSF28.raphYkosp0lUIoMY3tsMcMr5Fm5yXCQbseRccY')
